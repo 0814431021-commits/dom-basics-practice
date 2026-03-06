@@ -9,3 +9,8 @@ function changeColor(){
 
 }
 
+function changeFontSize(){
+    console.log("click");
+    let fontSize = prompt("New Font Size
+        ")
+}
